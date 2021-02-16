@@ -10,24 +10,24 @@ Glossary:
 
 Branch - A set of code that is under development without affecting the production / main branch code
 
-Clone
+Clone - hardware/software that is meant to function the exact same as another system
 
-Commit
+Commit - making a change permanant 
 
-Fetch
+Fetch - the retrival of data
 
-GIT
+GIT - a software for tracking changes in files 
 
-Github
+Github - collaboration platform for software developers  
 
-Merge
+Merge - taking two or more groups of data and merging them
 
-Merge Conflict
+Merge Conflict - when one or more person make different changes to the same line of the same file
 
-Push
+Push - data transfer from the server to the user
 
-Pull
+Pull - data transfer from the user to server
+ 
+Remote - a physical personal computer in which the user does not have phsyical acess
 
-Remote
-
-Repository
+Repository - where data is stored in computer
