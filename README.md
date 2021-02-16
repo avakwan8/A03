@@ -1,5 +1,5 @@
 # A03
-Webstorm Setup 
+Webstorm Setup:
 
 To use Github and Webstorm you will first need to download Git and Webstorm seperatly. Have a Github account created as well. Once these are downloaded, connect Github to Webstorm. You can now create a repository in Github. Then create one in Webstorm. You can now import a repository from Github onto Webstorm and vice versa. To create a Webstorm file, you can add files to Git, commit them, and they will now appear in Github. 
 
